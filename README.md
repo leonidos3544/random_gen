@@ -2,8 +2,8 @@
 
 #Запуск
 
-docker build -t random-app .
-docker run -p 8000:8000 random-app
+docker build -t ... .
+docker run -p 8000:8000 ...
 
 #Остановка
 
